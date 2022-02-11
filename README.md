@@ -5,7 +5,7 @@ node module for NEXRENDER project. It enable to make a callback after creation w
 
 Sends POST request to a choosen url to notify this server after uploading a rendering to its storage space
 
-## Installation
+## Installation (coming next)
 
 ```
 npm i -g nexrender-action-webhook
