@@ -10,10 +10,10 @@ Sends POST request to a choosen url to notify this server after uploading a rend
 ```
 npm i -g nexrender-action-webhook
 ```
-
+```
 cd /usr/local/lib/node_modules/@nexrender/cli/node_modules
 git clone https://github.com/dailyled/nexrender-action-webhook.git
-
+```
 ## Usage
 
 When creating your render job, provide this module as one of the `postrender` actions:
